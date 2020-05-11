@@ -1,0 +1,12 @@
+name: raceMap
+title: raceMap
+username:
+account: everything
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2216518
+bundleId: 3132804
+url: https://everything.shinyapps.io/raceMap/
+when: 1589218467.99309
+asMultiple: FALSE
+asStatic: FALSE
